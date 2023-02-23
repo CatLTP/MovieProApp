@@ -1,0 +1,3 @@
+API KEY : 62bc16215f48f9346d8c8051cd8627e2
+
+example : https://api.themoviedb.org/3/movie/550?api_key=62bc16215f48f9346d8c8051cd8627e2	
